@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexKnechtl!
+- 👀 I’m interested in developing software products, that encourage us to be better everyday!
+- 🌱 I’m currently improving myself on software project management and frontend development in React.
+- 💞️ I’m looking for smart people, who wan't to help our company to change the world for the better.
+- 📫 You can reach me per LinkedIn (Alexander Knechtl).
